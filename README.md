@@ -1,6 +1,6 @@
 # Rmotrgram
 
-Today we're going to build a clone of a social network (really similar to the blue bird one, but keep it a secret).
+For this project I built a very simple social network as a way to practice object-oriented programming. More details below
 
 As any other social network we're going to have different types of `Post`s. All these different types of Posts should inherit from the parent `Post` class:
 
